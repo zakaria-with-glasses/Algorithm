@@ -1,0 +1,21 @@
+Censored_lst = [
+  'anal',      'anus',        'arse',     'ass',
+  'assfucker', 'asshole',     'assshole', 'bastard',
+  'bitch',     'boong',       'cock',     'cockfucker',
+  'cocksuck',  'cocksucker',  'coon',     'coonnass',
+  'crap',      'cunt',        'damn',     'darn',
+  'dick',      'dirty',       'douche',   'dummy',
+  'erect',     'erection',    'erotic',   'escort',
+  'fag',       'faggot',      'fuck',     'fuckass',
+  'fuckhole',  'gook',        'hard',     'core',
+  'hardcore',  'homoerotic',  'hore',     'lesbian',
+  'lesbians',  'motherfuck',  'negro',    'nigger',
+  'orgasim',   'orgasm',      'penis',    'penisfucker',
+  'piss',      'piss',        'off',      'porn',
+  'porno',     'pornography', 'pussy',    'retard',
+  'sadist',    'sex',         'sexy',     'shit',
+  'slut',      'suck',        'tits',     'viagra',
+  'whore',     'xxx', 'ass fuck', 
+  'ass hole','black cock', 'bloody hell',
+    'Fuck off', 'fuck you'
+]
